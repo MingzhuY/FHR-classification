@@ -1,0 +1,72 @@
+        Parameter            Unit              Value 
+                    Pregnant information             
+Pregnant Number                    :          635124
+Maternal age                (year) :          30
+Gestational age             (week) :          36
+                     Morphological feature     
+Baseline mean               (bpm)  :          144.3
+Baseline sd                 (bpm)  :          0.5
+Baseline min                (bpm)  :          143.3
+Baseline max                (bpm)  :          145.5
+Acceleration                       :          1
+Deceleration_mild                  :          2
+Deceleration_prolong               :          0
+Deceleration_severe                :          0
+                     Time domain feature             
+Signal loss                   (%)  :          0.8
+Signal quality                (%)  :          100
+mean                        (bpm)  :          143.9
+sd                          (bpm)  :          9.2
+min                         (bpm)  :          116.3
+max                         (bpm)  :          169.3
+STV                         (bpm)  :          2.7
+II                                 :          0.5
+LTI                         (bpm)  :          17.3
+delta                       (bpm)  :          21.9
+delta_total                 (bpm)  :          53
+OSC_type                           :          2
+                    胎心率变异信号：时域特征    
+mean                         (ms)  :          418.6
+min                          (ms)  :          354.5
+max                          (ms)  :          516.1
+median                       (ms)  :          419.6
+SDNN                         (ms)  :          26.7
+SDANN                        (ms)  :          179
+SDNNi                        (ms)  :          0.7
+RMSSD                        (ms)  :          6.6
+NNx                      (sample)  :          2
+pNNx                          (%)  :          0.2
+STV                          (ms)  :          13.2
+II                                 :          0.8
+LTI                          (ms)  :          52.7
+delta                        (ms)  :          63.4
+delta_total                  (ms)  :          161.6
+FHRVTi                             :          8.4
+TINN                               :          115.4
+                    胎心率变异信号：频域特征              
+powerVLF                   (ms^2)  :          441.03
+powerLF                    (ms^2)  :          123.17
+powerMF                    (ms^2)  :          26.89
+powerHF                    (ms^2)  :          15.44
+powerTotal                 (ms^2)  :          606.54
+powerVLF                      (%)  :          72.71
+powerLF                       (%)  :          20.31
+powerMF                       (%)  :          4.43
+powerHF                       (%)  :          2.55
+peakVLF                      (Hz)  :          0.01
+peakLF                       (Hz)  :          0.08
+peakMF                       (Hz)  :          0.25
+peakHF                       (Hz)  :          0.34
+lfhf                          (%)  :          7.98
+ratio                         (%)  :          2.91
+                    胎心率变异信号：非线性特征  
+Approximate Entropy                :          1.07
+Sample Entropy                     :          2.85
+Fractal dimension                  :          1.64
+Hurst                              :          0.85
+Lempl Ziv Complexity               :          1.35
+DFA alpha                          :          0.82
+PRSA AAC                     (ms)  :          6.4
+PRSA ADC                     (ms)  :          -5.3
+Poincare SD1                 (ms)  :          4.3
+Poincare SD2                 (ms)  :          35.5
